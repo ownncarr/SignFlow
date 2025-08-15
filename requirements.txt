@@ -1,0 +1,10 @@
+PyQt5
+opencv-python
+numpy
+pyttsx3
+SpeechRecognition
+Pillow
+tensorflow
+transformers
+torch
+mediapipe

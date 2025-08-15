@@ -1,4 +1,4 @@
-SignFlow
+# SignFlow
 
 Breaking Barriers Between Speakers and Signers
 
@@ -31,4 +31,4 @@ Speakers: Speak into the device’s microphone, and SignFlow converts speech int
 View and Respond
 Responses are shown in real-time, ensuring a natural flow of conversation.
 
-The dataset used to train the model was picked from kaggle, github didnt allow me to upload the model h5 file, so i have provided the training scripts.
+Note: the dataset used to train the model was picked from kaggle, github didnt allow me to upload the model h5 file, so i have provided the training scripts.
